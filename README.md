@@ -1,8 +1,3 @@
-# blank
+# Test Payload v3
 
-blank
-
-## Attributes
-
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+Example for issue https://github.com/payloadcms/payload/issues/8308

@@ -13,6 +13,7 @@ export const Header: GlobalConfig = {
       name: 'header_logo',
       label: 'Logo',
       type: 'group',
+      localized: true,
       fields: [
         {
           name: 'logo',
@@ -20,7 +21,6 @@ export const Header: GlobalConfig = {
           relationTo: 'media',
           label: 'Logo image',
           required: false,
-          localized: true,
         },
       ],
     },
